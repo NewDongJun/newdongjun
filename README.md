@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Vincent_van_Gogh_-_Wheat_Field_with_Cypresses_%28National_Gallery_version%29.jpg"/></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Vincent_van_Gogh_-_Wheat_Field_with_Cypresses_%28National_Gallery_version%29.jpg/2560px-Vincent_van_Gogh_-_Wheat_Field_with_Cypresses_%28National_Gallery_version%29.jpg"/></p>
 
 <!--
 **NewDongJun/newdongjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
